@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MimicAPI/MimicAPI/bin/Debug/netcoreapp3.1
+/MimicAPI/MimicAPI/obj/Debug
+/MimicAPI/MimicAPI/bin/Debug/netcoreapp2.2
+/MimicAPI/.vs/MimicAPI/DesignTimeBuild
+/MimicAPI/MimicAPI
