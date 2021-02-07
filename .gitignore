@@ -13,3 +13,7 @@ _ReSharper.*
 bin
 obj
 packages
+*.suo
+*.user
+*.sln.docstates
+*.dtbcache
