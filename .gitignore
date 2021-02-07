@@ -7,3 +7,9 @@
 /MimicAPI/MimicAPI/bin/Debug/netcoreapp2.2
 /MimicAPI/.vs/MimicAPI/DesignTimeBuild
 /MimicAPI/MimicAPI
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
