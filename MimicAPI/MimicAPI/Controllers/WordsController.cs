@@ -53,7 +53,7 @@ namespace MimicAPI.Controllers
             }
             catch(Exception ex)
             {
-                
+                Console.WriteLine(ex);
             }
 
             _database.SaveChanges();
