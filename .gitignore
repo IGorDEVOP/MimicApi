@@ -17,8 +17,9 @@ packages
 *.user
 *.sln.docstates
 *.dtbcache
-/MimicAPI/MimicAPI/bin
-/MimicAPI/MimicAPI/obj
+*.MimicAPI/MimicAPI/bin
+*.MimicAPI/MimicAPI/obj
+*.MimicAPI/MimicAPI/csprojAssemblyReference.cache
 
 # User-specific files
 *.suo
